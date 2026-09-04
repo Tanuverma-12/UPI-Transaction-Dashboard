@@ -76,7 +76,7 @@ The dataset contains UPI transaction details including:
 ##  How to Use This Project
 
 1. Download the project files.
-2. Open the `.pbix` file using Microsoft Power BI Desktop.
+2. Open the `UPI Transacton.pbix` file using Microsoft Power BI Desktop.
 3. Refresh the dataset if required.
 4. Explore dashboard visuals using filters and slicers.
 
